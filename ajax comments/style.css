@@ -1,0 +1,15 @@
+#comments {
+    width: 40vw;
+    background-color: aliceblue;
+    font-family: 'Segoe UI';
+    min-height: 200px;
+}
+
+p {    
+    padding: 2rem;
+}
+
+button {
+    margin-left: 2rem;
+    height: 2rem;
+}
